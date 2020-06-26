@@ -10,6 +10,10 @@ This app is just a proof of concept, don't use it.
 
 I wanted to develop a screen recorder just to see if it was possible using Electron JS, be free to do whatever you want
 
+By -hardcoded- default, the file destination is:
+
+Documents\Electron Records
+
 ## Getting Started
 
 Installation
