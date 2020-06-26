@@ -1,5 +1,5 @@
 <h3>
-  js-creen-recorder-desktop
+  js-screen-recorder-desktop
 </h3>
 
 <br>
