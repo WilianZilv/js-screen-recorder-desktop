@@ -1,16 +1,14 @@
-<p align="center">
-  <img src="resources/media/logo_title.png" height="175" width="175"/>
-</p>
-
-<h3 align="center">
-  Yet another Electron + React boilerplate. 
+<h3>
+  js-creen-recorder-desktop
 </h3>
 
 <br>
 
 ## Overview
 
-Reactron is a tiny Electron project configured to work with React as frontend. The project has just the necessary to start a new app.
+This app is just a proof of concept, don't use it.
+
+I wanted to develop a screen recorder just to see if it was possible using Electron JS, be free to do whatever you want
 
 ## Getting Started
 
@@ -21,14 +19,6 @@ Installation
 Developing
 
 <code>\$ npm start</code>
-
-## Important
-
-The backend and frontend code must be separated.
-
-<code>public</code> folder for the backend.
-
-<code>src</code> folder for the frontend.
 
 ## Generating the bundle
 
