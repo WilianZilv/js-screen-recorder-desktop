@@ -26,11 +26,11 @@ Windows
 
 <code>\$ npm run dist:win</code>
 
-Linux
+Linux (not tested)
 
 <code>\$ npm run dist:linux</code>
 
-Mac
+Mac (not tested)
 
 <code>\$ npm run dist:mac</code>
 
